@@ -76,19 +76,19 @@ h1 {
 }
 
 .squares:nth-child(1):hover {
-	background: #13b4ff;
+	background: #9b99ff;
 }
 
 .squares:nth-child(2):hover {
-	background: #d861af;
+	background: #d093ec;
 }
 
 .squares:nth-child(3):hover  {
-	background: #81205f;
+	background: #e31c51;
 }
 
 .squares:nth-child(4):hover  {
-	background: #77b800;
+	background: #00e600;
 }
 
 @keyframes race {
